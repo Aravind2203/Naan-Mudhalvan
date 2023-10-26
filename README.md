@@ -12,3 +12,7 @@ Setup the project with python and pip
   pip install flask
   python app.py
 ```
+
+## Link
+
+https://youtu.be/8b5mWI8UFTw
